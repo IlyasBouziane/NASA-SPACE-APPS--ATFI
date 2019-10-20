@@ -1,4 +1,4 @@
-#NASA Space Apps Challeneg 2019 
+# NASA Space Apps Challenge 2019 
 Challenge : Spot That Fire V2.0
 
 
